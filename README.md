@@ -1,1 +1,2 @@
 # krom-dino
+wery macz
